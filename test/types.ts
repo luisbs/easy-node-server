@@ -1,4 +1,4 @@
-/// <reference path="../index.d.ts" />
+/// <reference path="../types.d.ts" />
 
 /**
  * Test of the typescript types

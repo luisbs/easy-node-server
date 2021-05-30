@@ -1,5 +1,5 @@
 // @ts-check
-/// <reference path="index.d.ts" />
+/// <reference path="types.d.ts" />
 
 const compileLogger = require('./src/logger');
 const compileRoute = require('./src/routes');
