@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "easy-node-server",
+  "version": "1.0.0",
+  "description": "Wrapper for node server as Express.js or Koa.js",
+  "main": "index.js",
+  "repository": "https://github.com/luisbs/easy-node-server.git",
+  "author": "luisbs",
+  "license": "All Rights Reserved",
+  "engines": {
+    "node": ">=14"
+  }
+}
