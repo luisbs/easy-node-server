@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "easy-node-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for node server as Express.js or Koa.js",
   "main": "index.js",
   "repository": "https://github.com/luisbs/easy-node-server.git",
